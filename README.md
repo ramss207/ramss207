@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ramss</h1>
+<h1 align="center">Hi, I'm Ramss</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gi" width="250"/>
 </p>
 
 <p align="center">
@@ -23,18 +23,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramss207&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ramss207&theme=tokyonight"/>
-</p>
-
----
-
 ## 🧾 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramss207&layout=compact&theme=tokyonight"/>
@@ -51,5 +39,5 @@
 
 ## 🎬 Anime Vibes
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXBreXBiN24xcmN2enFjcTl0NG04N2xjdHFoYzZncTNraGJ5eDJ3NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JtwISFbwSjfIk/giphy.gif" width="400"/>
 </p>
