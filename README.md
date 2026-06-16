@@ -4,3 +4,17 @@
 	<img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=440&lines=Just%20R%20|%20Ramss207" /> <br />
 	<p>Do you love? You walk with your determination! </p>
 	<br />
+<center>
+<div align="center">
+  <h2 align="center">⭐  𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 ⭐</h2>
+  <img style="border-radius:10%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXpnYWkwNHZvaGNybXdvOGN5OWJucnI5NWFmOXp0bzdxbGpxb2Y4eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Q4Kd40hABQycw/giphy.gif">
+</dev>
+<div align="left"><br><br>
+  <li><b>𝙽𝚊𝚖𝚎: Oktafiant P.R</b></li>
+  <li><b>𝙰𝚐𝚎: 20 𝚢.𝚘</b></li>
+  <li><b>𝚁𝚎𝚜𝚒𝚍𝚎𝚗𝚌𝚎: Konoha</b></li>
+  <li><b>𝙷𝚘𝚋𝚋𝚢𝚜: 𝙿𝚎𝚗𝚝𝚎𝚜𝚝𝚒𝚗𝚐 𝚊𝚗𝚍 𝙶𝚊𝚖𝚒𝚗𝚐 </b></li>
+  <br><br>
+</div>
+<div>
+  <br>
