@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ramss</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gi" width="250"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXBreXBiN24xcmN2enFjcTl0NG04N2xjdHFoYzZncTNraGJ5eDJ3NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JtwISFbwSjfIk/giphy.gif" width="250"/>
 </p>
 
 <p align="center">
